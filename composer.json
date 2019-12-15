@@ -1,0 +1,24 @@
+{
+    "name": "didrive/service",
+    "description": "simple nyos function for sites",
+    "version": "0.0.1",
+    
+    "keywords": [
+        "nyos", "uralweb.info"
+    ],
+    
+    "homepage": "https://uralweb.info/php/#classes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Сергей Бакланов",
+            "email": "1@nyos.ru",
+            "homepage": "https://uralweb.info",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "didrive/base": ">=0.1.3"
+    }
+}
